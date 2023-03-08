@@ -1,2 +1,2 @@
 ### **Global Terrorism Project**
-https://github.com/EylonYehiel/projects/blob/51546a91d7d59299b269cd61dd7fd35d97265e6f/project.ipynb
+<iframe src="https://raw.githubusercontent.com/EylonYehiel/projects/main/project.html" width="100%" height="500"></iframe>
