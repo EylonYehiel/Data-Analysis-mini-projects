@@ -1,2 +1,1 @@
-### **Global Terrorism Project**
-<iframe src="https://raw.githubusercontent.com/EylonYehiel/projects/main/project.html" width="100%" height="500" allowfullscreen></iframe>
+### for **Global Terrorism Project**, click https://nbviewer.org/github/EylonYehiel/project1/blob/main/project.ipynb
