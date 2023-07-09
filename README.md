@@ -1,4 +1,5 @@
-### For **FIFA 2023 Project**, click: [Open in Google Colab]([https://colab.research.google.com/github/EylonYehiel/projects/blob/main/fifa.ipynb]
+### For **FIFA 2023 Project**, click: <a href="[https://colab.research.google.com/github/EylonYehiel/projects/blob/main/fifa.ipynb]" style="background-color: #4CAF50; color: white; padding: 10px; border-radius: 5px; text-decoration: none;">Open in Google Colab</a>
+
 
 
 ### For **Worldwide Population Project**, click: https://nbviewer.org/github/EylonYehiel/projects/blob/main/WorldPopulation.html
