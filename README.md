@@ -11,4 +11,7 @@
 
 
 
-### For **Global Terrorism Project**, click:   https://nbviewer.org/github/EylonYehiel/project1/blob/main/project.ipynb
+### For **Global Terrorism Project**, click:   
+<a href="https://nbviewer.org/github/EylonYehiel/project1/blob/main/project.ipynb">
+  <img src="https://github.com/EylonYehiel/projects/blob/main/images/stopTerror.jpg" alt="Open in Google Colab" width="300" height="250">
+</a>
