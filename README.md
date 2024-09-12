@@ -1,4 +1,4 @@
-## **Footbal Data Analysis**:
+## **Football Data Analysis**:
 <a href="https://colab.research.google.com/github/EylonYehiel/projects/blob/main/fifa.ipynb">
   <img src="https://github.com/EylonYehiel/projects/blob/main/images/football-1019776.jpg" alt="Open in Google Colab" width="300" height="250">
 </a>
